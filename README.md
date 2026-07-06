@@ -8,19 +8,17 @@ Project Modules
 - Book Returning
 - Inventory Management
 - Reports
+  
 Development Team
 Student Name: Pineda, Blue F.
 Course: BSIT
 Section: BA-2C
 
-feature/member-management
 Member Management Module
 
 Features
 
-Register New Member
-Update Member Information
-Delete Member Record
-Search Member
-
- main
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
