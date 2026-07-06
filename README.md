@@ -8,7 +8,6 @@ Project Modules
 - Borrowing
 - Returning
 
-  
 Development Team
 Student Name: Pineda, Blue F.
 Course: BSIT
